@@ -1,7 +1,45 @@
-# 🧑‍🎓 About Me:
-Hello 👋, I'm <b>Ritwik</b>, a <b>4th year</b> undergrad in the <b>Department of Computer Science and Technology, IIEST Shibpur</b>.
-<br><br>I'm currently exploring <b><i>Springboot</i>, <i>Java</i>, <i>ReactJs</i>, <i>JavaScript</i>, <i>Android</i>, <i>Kotlin</i></b>.
-<br><br>
-Reach out to me anytime ☺️
+<h1 align="center">Hi 👋, I'm Ritwik Kundu</h1>
+<h3 align="center">I am a Computer Science student and a passionate Web developer from India.</h3>
 
-<mailto:kunduritwik74@gmail.com>
+- 🌱 I’m currently learning : **Spring boot**
+
+- 💬 Ask me about : **C++, C, Java, HTML5, CSS, JavaScript, ReactJS, ExpressJS, Mongodb, SQL, Git and GitHub**
+
+- 📫 How to reach me : **kunduritwik74@gmail.com**
+
+- 😄 Pronouns : **he/him**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/RitwikKundu18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RitwikKundu18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritwik-kundu-5a1708237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-kundu-5a1708237/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,express,git,github,nodejs,spring,c,cpp,mongodb,mysql,postman,react" />
+  </a>
+</p>
+
+## 📲 Connect with me on social cosmic platforms
+ #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
+ 
+ <h3 align="left">Coding Profiles:</h3>
+<p align="left">
+<a href="https://leetcode.com/rick3300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rick3300" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rick3300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rick3300" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rick3300/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rick3300" height="30" width="40" /></a>
+</p>
+ 
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
+<p align="left">
+
+<p align="left">
+   <!-- ---------------------------------------------------------------- -->
+    <a target="_blank"href="https://github.com/rick-12"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a href="https://twitter.com/RitwikKundu18"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a target="_blank"href="https://linkedin.com/in/ritwik-kundu-5a1708237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    <a target="_blank"href="https://www.instagram.com/ritwik03feb/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+   <!-- ---------------------------------------------------------------- -->
+</p>
