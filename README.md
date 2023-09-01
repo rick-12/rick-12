@@ -8,19 +8,15 @@
 - 📫 How to reach me : **kunduritwik74@gmail.com**
 
 - 😄 Pronouns : **he/him**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RitwikKundu18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RitwikKundu18" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ritwik-kundu-5a1708237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritwik-kundu-5a1708237/" height="30" width="40" /></a>
-</p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,express,git,github,nodejs,spring,c,cpp,mongodb,mysql,postman,react" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,bootstrap,js,express,git,github,nodejs,spring,mongodb,mysql,postman,react" />
   </a>
 </p>
+<br>
 
 ## 📲 Connect with me on social cosmic platforms
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
