@@ -43,4 +43,4 @@
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rick-12&theme=dark)](https://github.com/rick-12)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick-12&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick-12&show_icons=true&theme=dark)](https://github.com/rick-12)
