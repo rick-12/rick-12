@@ -39,3 +39,8 @@
     <a target="_blank"href="https://www.instagram.com/ritwik03feb/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
    <!-- ---------------------------------------------------------------- -->
 </p>
+<br>
+
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rick-12&langs_count=8&theme=dark)](https://github.com/Isha988)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick-12&show_icons=true&theme=dark)
