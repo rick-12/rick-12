@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritwik Kundu</h1>
 <h3 align="center">I am a Computer Science student and a passionate Web developer from India.</h3>
 
-- 🌱 I’m currently learning : **Spring boot**
+- 🌱 I’m currently learning : **AngularJS**
 
 - 💬 Ask me about : **C++, C, Java, HTML5, CSS, JavaScript, ReactJS, ExpressJS, Mongodb, SQL, Git and GitHub**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,bootstrap,js,express,git,github,nodejs,spring,mongodb,mysql,postman,react" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,html,css,bootstrap,js,express,git,github,nodejs,spring,mongodb,mysql,postman,react" />
   </a>
 </p>
 <br>
@@ -36,6 +36,7 @@
     <a target="_blank"href="https://github.com/rick-12"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a href="https://twitter.com/RitwikKundu18"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a target="_blank"href="https://linkedin.com/in/ritwik-kundu-5a1708237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    <a target="_blank"href="https://www.facebook.com/profile.php?id=61550990485056"><img src="https://img.shields.io/badge/-FACEBOOK-3944db?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
     <a target="_blank"href="https://www.instagram.com/ritwik03feb/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
    <!-- ---------------------------------------------------------------- -->
 </p>
