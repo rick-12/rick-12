@@ -33,7 +33,6 @@
 
 <p align="left">
    <!-- ---------------------------------------------------------------- -->
-    <a target="_blank"href="https://github.com/rick-12"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a href="https://twitter.com/RitwikKundu18"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a target="_blank"href="https://linkedin.com/in/ritwik-kundu-5a1708237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
     <a target="_blank"href="https://www.facebook.com/profile.php?id=61550990485056"><img src="https://img.shields.io/badge/-FACEBOOK-3944db?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
