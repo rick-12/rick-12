@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritwik Kundu</h1>
 <h3 align="center">I am a Computer Science student and a passionate Web developer from India.</h3>
 
-- 🌱 I’m currently learning : **AngularJS**
+- 🌱 I’m currently learning : **Machine Learning**
 
 - 💬 Ask me about : **C++, C, Java, HTML5, CSS, JavaScript, ReactJS, ExpressJS, Mongodb, SQL, Git and GitHub**
 
